@@ -54,43 +54,6 @@
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge"/>
 </p>
 
----
-
-## 🏗️ Featured Projects
-
-### 🔥 HPC Cluster (Virtualized)
-> Built a distributed computing environment from scratch
-
-- Virtual HPC cluster using VMware + Rocky Linux  
-- Multi-node configuration & workload distribution  
-- Explored parallel computation  
-
----
-
-### ⚡ JAX Deep Dive
-> Understanding high-performance ML at system level
-
-- Worked with JAX for auto-differentiation & vectorization  
-- Explored GPU/TPU-style computation concepts  
-- Studied internals & attempted open-source contribution  
-
----
-
-### 🤖 AI Habit Tracker
-> LLM-powered personalization system
-
-- Built habit tracking backend  
-- Integrated LLM APIs for smart recommendations  
-- Adaptive user behavior insights  
-
----
-
-### 🌍 Carbon Footprint ML Model
-> AI for environmental analysis
-
-- Estimated company carbon footprints  
-- Data processing + predictive modeling  
-- Insight generation  
 
 ---
 
