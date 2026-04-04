@@ -1,10 +1,137 @@
-- 🌱 Tensorflow, Pytorch,YOLO
-- 📖 Deep learning, CNN, Machine Learning
-- 📫 How to reach me: dev.piyush195@gmail.com
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">🚀 Piyush Banarjee</h1>
 
-# Hi, I'm Piyush Banarjee 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+HPC+%7C+Distributed+AI;Building+Scalable+AI+Systems;Exploring+JAX+%26+LLM+Internals;From+Research+to+Real-World+Impact" />
+</p>
 
-I am a passionate and driven computer science student at DY Patil College of Engineering, Pune, India. I am currently pursuing my BTech degree and have a strong foundation in programming languages like Python. I am particularly interested in the fields of Artificial Intelligence and Machine Learning and have gained hands-on experience with popular libraries such as TensorFlow and NumPy. I am eager to apply my skills to real-world projects and contribute to innovative solutions.
+<p align="center">
+  <a href="https://github.com/piyushbanarjee">
+    <img src="https://komarev.com/ghpvc/?username=piyushbanarjee&label=Profile+Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/piyushbanarjee?tab=followers">
+    <img src="https://img.shields.io/github/followers/piyushbanarjee?label=Followers&style=social" />
+  </a>
+</p>
 
+---
 
+## 🧠 About Me
 
+💡 Computer Science undergraduate focused on **Machine Learning Systems, High-Performance Computing, and Distributed AI**
+
+⚙️ I like working *under the hood* — from building HPC clusters to understanding how LLMs and frameworks like JAX actually work.
+
+🎯 Goal: Build **scalable AI systems** that combine research + real-world impact
+
+---
+
+## ⚡ Tech Stack
+
+### 🧩 Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+### 🤖 ML / AI
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
+
+### 🏗️ Backend & Systems
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔥 HPC Cluster (Virtualized)
+> Built a distributed computing environment from scratch
+
+- Virtual HPC cluster using VMware + Rocky Linux  
+- Multi-node configuration & workload distribution  
+- Explored parallel computation  
+
+---
+
+### ⚡ JAX Deep Dive
+> Understanding high-performance ML at system level
+
+- Worked with JAX for auto-differentiation & vectorization  
+- Explored GPU/TPU-style computation concepts  
+- Studied internals & attempted open-source contribution  
+
+---
+
+### 🤖 AI Habit Tracker
+> LLM-powered personalization system
+
+- Built habit tracking backend  
+- Integrated LLM APIs for smart recommendations  
+- Adaptive user behavior insights  
+
+---
+
+### 🌍 Carbon Footprint ML Model
+> AI for environmental analysis
+
+- Estimated company carbon footprints  
+- Data processing + predictive modeling  
+- Insight generation  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushbanarjee&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=piyushbanarjee&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Currently Exploring
+
+- 🧠 JAX internals & ML system optimization  
+- 🤖 LLM fine-tuning & local deployment (Ollama)  
+- ⚡ Distributed AI systems  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/piyushbanarjee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:dev.piyush195@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+<p align="center">
+  <b>Build systems that don’t just work — but scale.</b>
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  ⭐ If you find my work interesting, consider following!
+</p>
