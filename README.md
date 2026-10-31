@@ -48,7 +48,7 @@ I've written a Transformer in raw JAX, wired up a multi-node MPI cluster by hand
 ### 🕵️ S.P.A.R.K.
 **Air-gapped investigative intelligence platform**
 
-Offline GraphRAG over unstructured legal and investigative dossiers. Entities live in NetworkX graphs beside ChromaDB vector indices.
+Offline GraphRAG over unstructured legal and investigative dossiers. Entities live in NetworkX graphs beside ChromaDB vector indices, with strict Pydantic schemas over local Ollama output.
 
 `FastAPI` `PostgreSQL` `ChromaDB` `Ollama` `NetworkX`
 
@@ -77,34 +77,12 @@ Static private routing, passwordless SSH and shared NFS. Parallel matrix multipl
 </td>
 <td width="50%" valign="top">
 
-### 📏 Evaluated RAG Pipeline
-**GraphRAG with measurable quality**
-
-Dense search plus multi-hop graph traversal, benchmarked with Ragas and DeepEval for faithfulness and context relevancy.
-
-`ChromaDB` `pgvector` `NetworkX` `Ragas`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛡️ AirSCA
 **Dependency vulnerability analysis API**
 
 Parses SBOM data and maps the blast radius of vulnerable transitive dependencies with recursive SQL CTEs.
 
 `FastAPI` `PostgreSQL` `Asyncio`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐳 Containerized AI Inference Runtime
-**GPU-ready serving stack**
-
-Multi-stage Docker images with NVIDIA Container Toolkit passthrough, an XLA-compiled attention kernel and quantized SLMs via Ollama.
-
-`Docker` `JAX` `Ollama` `CUDA`
 
 </td>
 </tr>
@@ -165,9 +143,9 @@ flowchart TB
 | Area | Tools |
 |---|---|
 | **Languages** | Python (Asyncio, Pydantic), C++17/20, C, SQL, Bash |
-| **AI / ML** | JAX/Flax, PyTorch, scikit-learn, PEFT (LoRA), Ollama, ChromaDB, pgvector, Ragas, DeepEval |
+| **AI / ML** | JAX/Flax, PyTorch, scikit-learn, PEFT (LoRA), Ollama, ChromaDB, pgvector |
 | **Backend & Data** | FastAPI, REST, PostgreSQL (B-Tree indexing, CTEs), Firebase Functions |
-| **Infra** | Linux (Rocky, Ubuntu), Docker, OpenMPI, AWS (EC2, VPC), OCI, GitHub Actions |
+| **Infra** | Linux (Rocky, Ubuntu), Docker, OpenMPI, AWS (EC2), OCI, Git |
 
 ---
 
@@ -190,36 +168,6 @@ flowchart TB
   <img src="https://img.shields.io/badge/Stanford_%2B_DeepLearning.AI-ML_Specialization-8C1515?style=flat-square" alt="Stanford"/>
   <img src="https://img.shields.io/badge/IBM-GenAI_Language_Modeling_with_Transformers-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Attention_%C2%B7_Transformers_%26_BERT_%C2%B7_LLMs-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushbanarjee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushbanarjee&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=piyushbanarjee&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushbanarjee&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushbanarjee&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-</p>
-
-<!-- Contribution snake: needs .github/workflows/snake.yml (see below) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushbanarjee/piyushbanarjee/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushbanarjee/piyushbanarjee/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/piyushbanarjee/piyushbanarjee/output/github-snake-dark.svg"/>
-  </picture>
 </p>
 
 ---
